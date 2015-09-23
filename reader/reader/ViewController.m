@@ -26,6 +26,9 @@
     
     
     NSLog(@"4");
+    
+    
+    NSLog(@"5");
 }
 
 - (void)didReceiveMemoryWarning {
